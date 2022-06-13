@@ -4,7 +4,7 @@ Junior Front-end developer
 
 ***
 
-![Nikita Safonkin](https://github.com/sanafta/Nik/blob/main/HHbp49UlZ7j-PPZRghl77mi_xeJR9vvX7GBS7KA73xJkdPbZ58GvyB8mnZ3n4SupiLLQ4DFtWsdZf_erw3mt68eq.jpg)
+![Nikita Safonkin](https://github.com/sliverrevils/resume/blob/main/foto.png)
 
 #### Contact information:
 

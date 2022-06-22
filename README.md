@@ -41,7 +41,7 @@ Junior Front-end developer
 #### Courses:
 
 * 2022 **Udemi**
-*(JavaScript + React)*
+*(JavaScript + React + Redux)*
 
 ***
 

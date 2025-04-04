@@ -27,6 +27,7 @@ Junior Front-end developer
 * HTML5, CSS3 (SASS/SCSS)
 * Type Script
 * Java Script
+* NodeJs
 * React+Redux
 * Dart
 * Flutter

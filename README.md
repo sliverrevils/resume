@@ -24,12 +24,15 @@ Junior Front-end developer
 
 #### Skills:
 
-* HTML5, CSS3 (SASS/SCSS, BEM)
-* JavaScript
+* HTML5, CSS3 (SASS/SCSS)
+* Type Script
+* Java Script
 * React+Redux
+* Dart
+* Flutter
 * Git, GitHub
-* VSCode
-* Figma, Adobe Photoshop
+
+* Figma, Adobe Photoshop, Blender 3D
 
 ***
 
